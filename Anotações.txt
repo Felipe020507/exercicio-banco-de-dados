@@ -1,0 +1,39 @@
+Notação DER
+
+Losango: representa relacionamentos
+
+Elipse: representa atributo
+
+
+
+Relacinamentos: Possivel colocar um atributo no relacionamento
+
+Auto-Relacinamento: Uma entidade representa mais de um papel num mesmo conjunto
+
+
+
+Chave Simples: Uma unica chave, grifar o atributo chave
+
+Chave Composta: Precisa de um conjunto de atributos, grifar tbm
+
+
+
+Atributo Composto: "Um atributo dentro de outro atributo"
+
+Atribuo Monovalorado: Assumi um unico valor
+
+Atributo Multivalorado: Assumi mais de um valor, uma elipse dentro da outra elipse.
+
+
+
+Atributo Armazenado: Atributo comum armazenado no banco de dados
+
+Atributo Derivado: um atributo criado a partir de dados existentes, elipse formada por traços.
+
+
+
+Cardinalidade Um-para-um: Uma entidade está associado no máximo a uma entidade.
+
+Cardinalidade Um-para-muitos: Uma entidade está relaciona a várias outras entidaddes.
+
+Cardinalidade Muitos-para-muitos: Várias entidades podem se relacionar a várias outras entiades

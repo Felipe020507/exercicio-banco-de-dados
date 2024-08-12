@@ -17,6 +17,6 @@ Importe os arquivos do Draw.io para visualizar e editar os diagramas.
 
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
